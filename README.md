@@ -1,3 +1,5 @@
+**한국어** · [English](README.en.md) · [日本語](README.ja.md)
+
 # tripo-model-reference-pack
 
 Tripo(이미지 → 3D)에 넣을 레퍼런스 이미지를 매번 같은 규격으로 만들게 하는 에이전트 스킬입니다.
